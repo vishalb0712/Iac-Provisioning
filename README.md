@@ -43,6 +43,5 @@ This lab focuses on cloud automation using AWS and Ansible. The main goal is to 
 - Successfully configured and deployed an automated cloud infrastructure.
 - Applications were deployed and tested on AWS servers.
 - Achieved seamless automation using Ansible.
-![Screenshot 2024-04-02 at 21.06.05.png](..%2F..%2F..%2FYork%20University-School%20of%20Continuing%20Studies-2024%2FCloudOps%20Tools%20and%20Techniques-CSCL1030%2FAssignments%2FAssignment-2%2Fassign02-step-by-step-ss%2FScreenshot%202024-04-02%20at%2021.06.05.png)
-![Screenshot 2024-04-02 at 14.39.29.png](..%2F..%2F..%2FYork%20University-School%20of%20Continuing%20Studies-2024%2FCloudOps%20Tools%20and%20Techniques-CSCL1030%2FAssignments%2FAssignment-2%2Fassign02-step-by-step-ss%2FScreenshot%202024-04-02%20at%2014.39.29.png)
+
 ---
